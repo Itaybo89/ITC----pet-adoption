@@ -1,0 +1,44 @@
+.dashboard {
+    width: 200px;
+    position: fixed;
+    top: 83px;  
+    bottom: 70px; 
+    left: 0;
+    background-color: #145ea8;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  
+  .minimized {
+    width: 50px;
+  }
+  
+  .toggle-button {
+    align-self: center;
+    background-color: #145ea8;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+  }
+  
+  .upper-buttons button,
+  .lower-buttons button {
+    width: 100%;
+    padding: 10px;
+    background-color: #145ea8;
+    color: white;
+    border: none;
+    cursor: pointer;
+    text-align: left;
+    margin-top: 5px;
+  }
+  
+  .upper-buttons button:hover,
+  .lower-buttons button:hover {
+    background-color: #333;
+  }
+  

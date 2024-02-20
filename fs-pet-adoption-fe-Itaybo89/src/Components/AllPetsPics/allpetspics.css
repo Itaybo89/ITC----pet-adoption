@@ -1,0 +1,13 @@
+allpets-div {
+    height: 100%;
+}
+
+.MuiPaper-root {
+    margin: 40px !important;
+}
+
+#allpets-div {
+    background-color: antiquewhite;
+    height:auto;
+}
+

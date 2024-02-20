@@ -1,0 +1,42 @@
+.user-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #faf3e0;
+  height: 100vh;
+  width: 100vw;
+}
+
+.user-title {
+  font-size: 3em;
+  margin-top: 100px;
+  color: #4a4a4a;
+}
+
+.user-list {
+  max-height: 400px;
+  overflow-y: auto;
+  width: 60%;
+  background-color: #f2e9e4;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.user-item {
+  background-color: #f6f4e6;
+}
+
+.user-button {
+  width: 100%;
+  justify-content: space-between;
+}
+
+.user-text {
+  font-size: 1.5em;
+}
+
+.user-role {
+  font-size: 1.5em;
+  color: #9a8c98;
+  margin-left: 50px;
+}
