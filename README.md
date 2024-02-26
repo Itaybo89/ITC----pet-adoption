@@ -1,17 +1,15 @@
----
-
 # Pet Adoption Platform
 
 ## Project Overview
 The Pet Adoption Platform is designed for efficient pet adoption and management, featuring a robust front-end built with React and a back-end using Node.js and MySQL. This platform caters to both regular users and administrators, offering functionalities like pet adoption, fostering, user and pet profile management, and an AI-powered admin tool for advanced database querying.
 
 ## Table of Contents
-- Getting Started
-- App Features
-- Setup / Installation
-- Running the Application
-- Site Features
-- License
+- [Getting Started](#getting-started)
+- [App Features](#app-features)
+- [Setup / Installation](#setup--installation)
+- [Running the Application](#running-the-application)
+- [Site Features](#site-features)
+- [License](#license)
 
 ## Getting Started
 This section provides instructions on how to get the project up and running on your local machine for development and testing purposes.
@@ -36,7 +34,7 @@ Follow these steps to set up the project locally:
 [![UserProfile1](./presents/userProfile1.jpg)](https://pakatanks.web.app/)
 
 ### Pet Full Card
-[![PetFullCard1](./presents/petFullCard11.jpg)](https://pakatanks.web.app/)
+[![PetFullCard1](./presents/petFullCard1.jpg)](https://pakatanks.web.app/)
 
 ### Homepage
 [![Homepage2](./presents/homepage2.jpg)](https://pakatanks.web.app/)
@@ -71,12 +69,8 @@ Follow these steps to set up the project locally:
 ### Admin Tools
 [![AdminTools1](./presents/adminTools1.jpg)](https://pakatanks.web.app/)
 
-*Note: Replace "https://pakatanks.web.app/" with the actual URL where the images should link to, if different.*
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ### Additional Notes
 To use this application, you'll need an API token and access to the database. Make sure to set up these credentials before running the application.
-
----
