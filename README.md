@@ -1,4 +1,4 @@
-# ITC----pet-adoptionCertainly! Here's the updated README.md with the provided instructions:
+---
 
 # Pet Adoption Platform
 
@@ -6,12 +6,12 @@
 The Pet Adoption Platform is designed for efficient pet adoption and management, featuring a robust front-end built with React and a back-end using Node.js and MySQL. This platform caters to both regular users and administrators, offering functionalities like pet adoption, fostering, user and pet profile management, and an AI-powered admin tool for advanced database querying.
 
 ## Table of Contents
-- [Getting Started](#getting-started)
-- [App Features](#app-features)
-- [Setup / Installation](#setup--installation)
-- [Running the Application](#running-the-application)
-- [Site Features](#site-features)
-- [License](#license)
+- Getting Started
+- App Features
+- Setup / Installation
+- Running the Application
+- Site Features
+- License
 
 ## Getting Started
 This section provides instructions on how to get the project up and running on your local machine for development and testing purposes.
@@ -19,80 +19,64 @@ This section provides instructions on how to get the project up and running on y
 ## Setup / Installation
 Follow these steps to set up the project locally:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repository/pet-adoption.git
-   ```
-2. Navigate to the client directory and install dependencies:
-   ```bash
-   cd pet-adoption/client
-   npm install
-   ```
-3. Navigate to the server directory and install dependencies:
-   ```bash
-   cd ../server
-   npm install
-   ```
+1. Clone the repository.
+2. Navigate to the client directory and install dependencies.
+3. Navigate to the server directory and install dependencies.
 
 ## Running the Application
-1. To start the server (defaults to port 8080 with CORS for port 3000):
-   ```bash
-   npm start
-   ```
-2. To start the client in a new terminal window:
-   ```bash
-   cd ../client
-   npm start
-   ```
+1. To start the server.
+2. To start the client in a new terminal window.
 
 ## Site Features
 ### Log in / Sign in
-![Log In](./root/presents/picture1.jpg)
-![Sign Up](./root/presents/picture2.jpg)
+[![Log In](./presents/picture1.jpg)](https://pakatanks.web.app/)
+[![Sign Up](./presents/picture2.jpg)](https://pakatanks.web.app/)
 
 ### User Profile
-![UserProfile1](./root/presents/userProfile1.jpg)
+[![UserProfile1](./presents/userProfile1.jpg)](https://pakatanks.web.app/)
 
 ### Pet Full Card
-![UserProfile1](./root/presents/petFullCard11.jpg)
+[![PetFullCard1](./presents/petFullCard11.jpg)](https://pakatanks.web.app/)
 
 ### Homepage
-![Homepage2](./root/presents/homepage2.jpg)
+[![Homepage2](./presents/homepage2.jpg)](https://pakatanks.web.app/)
 
 ### Admin Dashboard
-![Homepage1](./root/presents/homepage1.jpg)
+[![AdminDashboard1](./presents/homepage1.jpg)](https://pakatanks.web.app/)
 
 ### Search
-![Search1](./root/presents/search1.jpg)
-![Search2](./root/presents/search2.jpg)
+[![Search1](./presents/search1.jpg)](https://pakatanks.web.app/)
+[![Search2](./presents/search2.jpg)](https://pakatanks.web.app/)
 
 ### My Pets
-![MyPets1](./root/presents/myPets1.jpg)
+[![MyPets1](./presents/myPets1.jpg)](https://pakatanks.web.app/)
 
 ### Saved Pets
-![SavedPets1](./root/presents/savedPets1.jpg)
+[![SavedPets1](./presents/savedPets1.jpg)](https://pakatanks.web.app/)
 
 ### Add Pet
-![AddPet1](./root/presents/addPet1.jpg)
+[![AddPet1](./presents/addPet1.jpg)](https://pakatanks.web.app/)
 
 ### All Pets
-![AllPets1](./root/presents/allPets1.jpg)
-![AllPets2](./root/presents/allPets2.jpg)
+[![AllPets1](./presents/allPets1.jpg)](https://pakatanks.web.app/)
+[![AllPets2](./presents/allPets2.jpg)](https://pakatanks.web.app/)
 
 ### All Users
-![AllUsers1](./root/presents/allUsers1.jpg)
-![AllUsers2](./root/presents/allUsers2.jpg)
+[![AllUsers1](./presents/allUsers1.jpg)](https://pakatanks.web.app/)
+[![AllUsers2](./presents/allUsers2.jpg)](https://pakatanks.web.app/)
 
 ### User's Pets
-![AllUsers1](./root/presents/userPets1.jpg)
+[![UsersPets1](./presents/userPets1.jpg)](https://pakatanks.web.app/)
 
 ### Admin Tools
-![AdminTools1](./root/presents/adminTools1.jpg)
+[![AdminTools1](./presents/adminTools1.jpg)](https://pakatanks.web.app/)
 
-*Note: Replace the placeholder image paths with the actual paths to your screenshots.*
+*Note: Replace "https://pakatanks.web.app/" with the actual URL where the images should link to, if different.*
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ### Additional Notes
 To use this application, you'll need an API token and access to the database. Make sure to set up these credentials before running the application.
+
+---
